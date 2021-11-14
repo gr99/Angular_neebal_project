@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RecyclerView_YT</string>
+    <string name="animal_name">aardvark</string>
+    <string name="imageview_disc">ImageView</string>
+
+    <string-array name="animals">
+        <item>Aardvark</item>
+        <item>Abyssinian</item>
+        <item>Addax</item>
+        <item>Adelie Penguin</item>
+        <item>Affenpinscher</item>
+        <item>Afghan Hound</item>
+        <item>African Bullfrog</item>
+        <item>African Bush Elephant</item>
+        <item>African Civet</item>
+        <item>Dog</item>
+    </string-array>
+
+</resources>
