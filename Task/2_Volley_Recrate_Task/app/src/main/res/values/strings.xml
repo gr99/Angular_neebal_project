@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">volleyRecrateTask</string>
+    <string name="userimage">userImage</string>
+    <string name="user_name">User Name</string>
+</resources>
